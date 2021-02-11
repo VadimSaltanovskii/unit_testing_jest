@@ -4,7 +4,7 @@ type AreaType = {
     ecology: number
 }
 
-type MonsterType = {
+export type MonsterType = {
     name: string
     age: number
     isKing: boolean
