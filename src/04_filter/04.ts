@@ -17,3 +17,5 @@ type CourseType = {
 export function cheapCoursesFunction(course: CourseType) {
     return course.price < 160
 }
+
+
